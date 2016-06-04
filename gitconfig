@@ -1,7 +1,7 @@
 [user]
-  name = Jim OKelly
-  email = jim@devschool.rocks
-
+  name = Aaron Warman
+  email = aaronwarman@gmail.com
+  
 [color]
   diff = auto
   status = auto
@@ -31,7 +31,7 @@
   enabled = 1
 
 [github]
-  user = JimOKelly
+  user = aaronwarman
 
 [merge]
   ff = only
